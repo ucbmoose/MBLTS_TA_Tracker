@@ -1,0 +1,31 @@
+body {
+    background-color: #E50022;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+div {
+    width:300px;
+    margin:auto;
+}
+h1 {
+    color: #00385D;
+    text-align:center;
+}
+p {
+    color: #00385D;
+    text-align:center;
+}
+button {
+    background-color: #00385D;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#status {
+    margin-top: 15px;
+    font-weight: bold;
+     color: #333;
+}

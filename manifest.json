@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Team Affinity Extractor",
+  "version": "2.1",
+  "description": "Get Team Affinity program progress and downloads as CSV. Updated to Add Color Storm",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "ta.png"
+    }
+  }
+}
